@@ -1,0 +1,70 @@
+
+.carousel-inner img {
+      width: 100%;
+      height: 100%;
+  }
+
+  .logo{
+  	width: 5%;
+  	height: 5%;
+  }
+
+  .cajas{
+  	text-align: center;
+  }
+.foto img{
+	width: 30%;
+	height: 30%;
+}
+
+.fotoP{
+	width: 30%;
+	height: 30%;
+}
+
+aside{
+	text-align: center;
+	height: auto;
+}
+.foto{
+	display: inline-block;
+	float: left;
+	width: 30%;
+	margin:none;
+}
+.texto{
+	display: inline-block;
+	width: 70%;
+
+}
+
+.contenido{
+	margin-top:40px;
+	margin-bottom: 5px;
+}
+.container{
+	text-align: center;
+	margin:20px;
+}
+.nosotrosT{
+	text-align: justify;
+}
+.contenido2{
+	background-color: gray;
+}
+
+.izq{
+	text-align: left;
+	display: inline-block;
+	background: gray;
+}
+
+.der{
+	text-align: right;
+	display: inline-block;
+	float: right;
+	background: gray;
+}
+th{
+	text-align: center;
+}
